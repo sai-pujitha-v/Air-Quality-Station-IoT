@@ -1,0 +1,5 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. MQUnifiedsensor (by Miguel Califa)
+4. Adafruit_SSD1306 (for OLED)
+5. ArduinoJson (by Benoit Blanchon)
